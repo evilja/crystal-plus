@@ -1,0 +1,4 @@
+requests
+pygame
+python-curses
+discord-rpc.py
